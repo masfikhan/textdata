@@ -1,0 +1,64 @@
+span.test {
+    background-color: red;
+}
+
+/* dhruv's css styling */
+.forceCommunityRecordListStandard .listTitle {
+    font-size:1.8rem !important;
+}
+
+h3.slds-section__title.test-id__section-header-container button {
+    background-color: #dfe0f8 !important;
+    color: black;
+    font-size: 1.2em;
+}
+.slds-grid.slds-page-header.forceRelatedListCardHeader {
+    background-color: #4554A5;
+    color: white;
+}
+
+header.forceHighlightsPanel.forceCommunityRecordHeadline { 
+    background-color: #dfe0f8 !important; 
+    color: black; 
+    border-bottom: 3px solid #a8abf0 !important;
+}
+
+.forceHighlightsStencilDesktop .entityNameTitle {
+    color: black !important;
+}
+
+.uiTabBar {
+    background-color: #a8abf0;
+    padding-left: 5px;
+}
+
+.tabs__item a {color: black !important;
+}
+
+.uiTabset--default .tabs__item.active>a, .uiTabset--default .tabs__item>a:hover, .uiTabset--default .tabs__item>a:focus {
+    border-color: rgb(245, 245, 245);
+    box-shadow:none;
+}
+
+.notification-unread {background-color: rgb(223, 213, 245) !important;}
+
+.viewAllLink {
+    background-color: #ea967a;
+    text-align: center;
+}
+.viewAllLink a {
+    color: white;
+    font-size: 1.5em;
+}
+.forceCommunityRecordListCompact {
+    border: 5px solid #7F679B;
+    border-radius: 5px;
+}
+.forceCommunityRecordListCompact h2.listTitle.truncate {
+    background-color: #7f679b;
+    text-align: center;
+    color: white;
+}
+.forceCommunityRecordListCompact .listContent {
+    padding: 5px;
+}
