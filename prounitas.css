@@ -1,45 +1,100 @@
-/* masfi's css styling */
+/* MASFI's CSS STYLING */
 
 /* title */
 h1.title {
-    font-size: 50px;
-    font: "Asap";
-    font-weight: bold;
-    color: #47576F;
-    text-align: center;
+    "font-size: 70px";
+    "font-family: Asap Semibold";
+    "font-weight: bold";
+    "color: #47576F";
+    "text-align: center";
 }
 
 span.let1 {
-    "color: #29A6AD;"
+    "color: #29A6AD";
 }
 
 span.let2 {
-    "color: #9DC13B;"
+    "color: #9DC13B";
 }
 
 span.let3 {
-    "color: #E1c122;"
+    "color: #E1c122";
 }
 
 span.let4 {
-    "color: #DD8080;"
+    "color: #DD8080";
 }
 
 span.let5 {
-    "color: #7F679B;"
+    "color: #7F679B";
 }
 
-/*
+/* my agenda heading */
+h2.agenda {
+    "font-size: 50px";
+    "font-family: Asap bold";
+    "text-align: center";
+    "color: #D6E8E9"; 
+    "border: 2px solid #AE5983";
+    "background-color: #AE5983";                      
+    "border-radius: 2px";
+}
+
+/* action items heading */
+h2.actionItems {
+    "font-size: 50px";
+    "font-family: Asap bold";
+    "text-align: center";
+    "color: #D6E8E9"; 
+    "border: 2px solid #AE5983";
+    "background-color: #AE5983";                      
+    "border-radius: 2px";
+}
 
 
-            
+/* apply filters */
+/* DHRUV, PLEASE INCLUDE THE FOLLOWING HTML FOR APPLY FILTERS --> h3 tag, class="applyFilters" */
+h3.applyFilters {
+    "font-size: 22px";
+    "font-family: Asap bold";
+    "text-align: left";
+    "color: #47576f"; 
+    "border: 2px solid #d6e8e9";
+    "background-color: #d6e8e9"; 
+}
+
+/* calendar filter checkboxes */
+/* DHRUV, PLEASE INCLUDE THE FOLLOWING CLASSES FOR THE FILTER CHECKBOXES --> button1, button2, button3, button4, button5, button6, button7 */
+.button1 {
+    "background-color: #4554a5";
+}
+
+.button2 {
+    "background-color: #29a6ad";
+}
+
+.button3 {
+    "background-color: #9dc13b";
+}
+
+.button4 {
+    "background-color: #e1c122";
+}
+
+.button5 {
+    "background-color: #f89b3f";
+}
+
+.button6 {
+    "background-color: #dd8080";
+}
+
+.button7 {
+    "background-color: #7f679b";
+}
 
 
-
-
-
-
-/* dhruv's css styling */
+/* DHRUV'S CSS STYLING */
 .forceCommunityRecordListStandard .listTitle {
     font-size:1.8rem !important;
 }
