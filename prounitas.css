@@ -1,6 +1,43 @@
-span.test {
-    background-color: red;
+/* masfi's css styling */
+
+/* title */
+h1.title {
+    font-size: 50px;
+    font: "Asap";
+    font-weight: bold;
+    color: #47576F;
+    text-align: center;
 }
+
+span.let1 {
+    "color: #29A6AD;"
+}
+
+span.let2 {
+    "color: #9DC13B;"
+}
+
+span.let3 {
+    "color: #E1c122;"
+}
+
+span.let4 {
+    "color: #DD8080;"
+}
+
+span.let5 {
+    "color: #7F679B;"
+}
+
+/*
+
+
+            
+
+
+
+
+
 
 /* dhruv's css styling */
 .forceCommunityRecordListStandard .listTitle {
