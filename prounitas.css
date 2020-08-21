@@ -31,7 +31,7 @@ span.let5 {
 
 /* my agenda heading */
 h2.agenda {
-    font-size: 40px;
+    font-size: 35px;
     font-family: "Asap bold";
     text-align: center;
     color: #D6E8E9; 
@@ -42,7 +42,7 @@ h2.agenda {
 
 /* action items heading */
 h2.actionItems {
-    font-size: 40px;
+    font-size: 35px;
     font-family: "Asap bold";
     text-align: center;
     color: #D6E8E9; 
