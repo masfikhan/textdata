@@ -2,7 +2,7 @@
 
 /* title */
 h1.title {
-    font-size: 70px;
+    font-size: 60px;
     font-family: "Asap Semibold";
     font-weight: bold;
     color: #47576F;
@@ -31,7 +31,7 @@ span.let5 {
 
 /* my agenda heading */
 h2.agenda {
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Asap bold";
     text-align: center;
     color: #D6E8E9; 
@@ -42,7 +42,7 @@ h2.agenda {
 
 /* action items heading */
 h2.actionItems {
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Asap bold";
     text-align: center;
     color: #D6E8E9; 
