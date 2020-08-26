@@ -1,98 +1,3 @@
-/* MASFI's CSS STYLING */
-
-/* title */
-h1.title {
-    font-size: 60px;
-    font-family: "Asap Semibold";
-    font-weight: bold;
-    color: #47576F;
-    text-align: center;
-}
-
-span.let1 {
-    color: #29A6AD;
-}
-
-span.let2 {
-    color: #9DC13B;
-}
-
-span.let3 {
-    color: #E1c122;
-}
-
-span.let4 {
-    color: #DD8080;
-}
-
-span.let5 {
-    color: #7F679B;
-}
-
-/* my agenda heading */
-h2.agenda {
-    font-size: 35px;
-    font-family: "Asap bold";
-    text-align: center;
-    color: #D6E8E9; 
-    border: 2px solid #AE5983;
-    background-color: #AE5983;                      
-    border-radius: 2px;
-}
-
-/* action items heading */
-h2.actionItems {
-    font-size: 35px;
-    font-family: "Asap bold";
-    text-align: center;
-    color: #D6E8E9; 
-    border: 2px solid #AE5983;
-    background-color: #AE5983;                      
-    border-radius: 2px;
-}
-
-
-/* apply filters */
-/* DHRUV, PLEASE INCLUDE THE FOLLOWING HTML FOR APPLY FILTERS --> h3 tag, class="applyFilters" */
-h3.applyFilters {
-    font-size: 22px;
-    font-family: "Asap bold";
-    text-align: left;
-    color: #47576f; 
-    border: 2px solid #d6e8e9;
-    background-color: #d6e8e9; 
-}
-
-/* calendar filter checkboxes */
-/* DHRUV, PLEASE INCLUDE THE FOLLOWING CLASSES FOR THE FILTER CHECKBOXES --> button1, button2, button3, button4, button5, button6, button7 */
-.button1 {
-    background-color: #4554a5;
-}
-
-.button2 {
-    background-color: #29a6ad;
-}
-
-.button3 {
-    background-color: #9dc13b;
-}
-
-.button4 {
-    background-color: #e1c122;
-}
-
-.button5 {
-    background-color: #f89b3f;
-}
-
-.button6 {
-    background-color: #dd8080;
-}
-
-.button7 {
-    background-color: #7f679b;
-}
-
 
 /* DHRUV'S CSS STYLING */
 .forceCommunityRecordListStandard .listTitle {
@@ -119,12 +24,7 @@ header.forceHighlightsPanel.forceCommunityRecordHeadline {
     color: black !important;
 }
 
-.uiTabBar {
-    background-color: #a8abf0;
-    padding-left: 5px;
-}
-
-.tabs__item a {color: black !important;
+.tabs__item a {color: white !important;
 }
 
 .uiTabset--default .tabs__item.active>a, .uiTabset--default .tabs__item>a:hover, .uiTabset--default .tabs__item>a:focus {
@@ -135,7 +35,7 @@ header.forceHighlightsPanel.forceCommunityRecordHeadline {
 .notification-unread {background-color: rgb(223, 213, 245) !important;}
 
 .viewAllLink {
-    background-color: #ea967a;
+    background-color: #ae5983;
     text-align: center;
 }
 .viewAllLink a {
@@ -154,3 +54,156 @@ header.forceHighlightsPanel.forceCommunityRecordHeadline {
 .forceCommunityRecordListCompact .listContent {
     padding: 5px;
 }
+
+/* MASFI's CSS STYLING */
+
+/* title */
+h1.title {
+    font-size: 60px;
+    font-family: "Asap Semibold";
+    color: #7f679b;
+    text-align: center;
+}
+
+span.let1 {
+    font-weight: bold;
+}
+
+
+/* calendar filter checkboxes */
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element {
+    background-color: #4574aa !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element {
+    background-color: #49bea7 !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element {
+    background-color: #9dc13b !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element {
+    background-color: #f89b3f !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element{
+    background-color: #dd8080 !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element{
+    background-color: #ae5983 !important;
+}
+
+.slds-p-around_xx-small slds-m-left_xx-small slds-form-element {
+    background-color: #7f679b !important;
+}
+
+
+/* calendar agenda */
+
+.calendarTitle slds-align_absolute-center slds-text-heading_large slds-p-vertical_medium {
+    background-color: #7f679b !important;
+    color: white !important;
+}
+
+/*element.style*/
+.calendarContainer prounitasPurpleCalendar {
+    border: 5px solid #7F679B !important;
+    border-radius: 5px !important;
+}
+
+/* ACTIVE/UNSCHEDULED */
+.uiTabBar {
+    background-color: #7f679b;
+    padding-left: 5px;
+}
+
+.uiTabset--default .tabs__nav {
+    background-color: #7f679b;
+}
+
+.uiTabset--default {
+    border: 5px solid #7F679B;
+    border-radius: 5px;
+}
+
+/* NAV BAR */
+.siteforceCptBody .cHeader .cHeaderTop {
+    background-color: #4554a5;
+}
+
+
+
+/* STUDENT RECORDS */
+.forceCommunityRecordHeadline .forceRecordLayout.slds-page-header {
+    background-color: #4554a5;
+}
+
+header.forceHighlightsPanel.forceCommunityRecordHeadline {
+    color: white;
+}
+
+.forceHighlightsStencilDesktop .entityNameTitle {
+    color: white !important;
+}
+
+/* student info */
+.uiTabBar {
+    background-color: #4554a5;
+    padding-left: 5px;
+}
+
+.tabs__item a {
+    color: white !important;
+}
+
+/* connect to intervention */
+.slds interventionCreator prounitasInterventionCreator .slds-p-around_medium {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-text-heading_medium slds-align_absolute-center interventionCreatorTitle {
+    background-color: #7f679b;
+    text-align: center;
+}
+
+/* NAV BAR */
+.siteforceCptBody .cHeader .cHeaderTop {
+    background-color: #4554a5;
+}
+
+
+
+
+
+
+/* IDENTIFY AND CONNECT */
+
+.slds-col--padded comm-content-header comm-layout-column .ui-widget {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-size_1-of-1 ListManagerTitle slds-align_absolute-center slds-text-heading_large {
+    background-color: #7f679b;
+    color: white;
+}
+
+.slds-grid slds-wrap slds-size_1-of-1 visualizerContainer prounitasVisualizer {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-size_1-of-1 visualizerTitle slds-align_absolute-center slds-text-heading_large {
+    background-color: #7f679b;
+    color: white;
+}
+
+/* NAV BAR */
+.siteforceCptBody .cHeader .cHeaderTop {
+    background-color: #4554a5;
+}
+
+
